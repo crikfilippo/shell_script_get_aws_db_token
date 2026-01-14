@@ -1,6 +1,6 @@
 # Description
 
-Shell script to obtain AWS Postgres DB tokens from preset profiles with quick selection. \n
+Shell script to obtain AWS Postgres DB tokens from preset profiles with quick selection. \r
 The script also allows saving the last generated token to a file and manually selecting connection parameters from those registered.
 
 ![image](https://github.com/user-attachments/assets/cb67a6ec-f685-46f8-9c92-0a1721a74bff)
@@ -38,5 +38,6 @@ MAINPRFS["DEVELOPMENT","AWSCRDS"]="default"
 # Script Usage
 
 Navigate to the path where the script is located and execute with ./gen_token_db_aws.sh
+
 
 
